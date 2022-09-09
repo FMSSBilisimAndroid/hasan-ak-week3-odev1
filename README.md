@@ -10,6 +10,7 @@ ve yeniden dikey moda geçtiğinde ise yine veriler sıfırlanmakta.**
 
 <img src ="https://github.com/FMSSBilisimAndroid/hasan-ak-week3-odev1/blob/master/Media_220909_231618.gif" width = 300 height = 500/>
 
+
 ## GIF 2
 
 Bu gif'de  onViewStateRestored ve onSaveInstanceState metotları metotları **kullanıldığı** durumu ele alınmıştır.
