@@ -8,7 +8,7 @@ Bu gif'de  onViewStateRestored ve onSaveInstanceState metotları metotları **ku
 Burada görüleceği üzere **ekran yatay moda geçtiğinde edittext içindeki veri kaybolmakta ve textview içindeki sayıda 0 olmakta
 ve yeniden dikey moda geçtiğinde ise yine veriler sıfırlanmakta.**
 
-<img src ="https://github.com/FMSSBilisimAndroid/hasan-ak-week3-odev1/blob/master/Media_220909_231618.gif" width = 300 height = 500/>
+<img src ="https://github.com/FMSSBilisimAndroid/hasan-ak-week3-odev1/blob/master/gif_1.gif" width = 300 height = 500/>
 
 
 ## GIF 2
@@ -17,7 +17,7 @@ Bu gif'de  onViewStateRestored ve onSaveInstanceState metotları metotları **ku
 Burada görüleceği üzere **ekran yatay moda geçtiğinde edittext içindeki veri kaybolmuyor ve textview içindeki sayıda değişmemekte
 ve yeniden dikey moda geçtiğinde ise veriler kaybolmamaktadır.**
 
-<img src ="https://github.com/FMSSBilisimAndroid/hasan-ak-week3-odev1/blob/master/Media_220910_014206.gif" width = 300 height = 500/>
+<img src ="https://github.com/FMSSBilisimAndroid/hasan-ak-week3-odev1/blob/master/gif_2.gif" width = 300 height = 500/>
 
 ## About Me
 
