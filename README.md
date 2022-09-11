@@ -1,3 +1,7 @@
+## ikinci ödev linki
+[week3 ödev2](https://github.com/FMSSBilisimAndroid/hasan-ak-week3-odev2) 
+
+
 ## Önemli Not!!
 Bu uygulamada onViewStateRestored ve onSaveInstanceState metotlarının **işleyişini anlamak için** edittextin `android:saveEnabled="false"`
 özelliği **devre dışı bırakılmıştır.**
